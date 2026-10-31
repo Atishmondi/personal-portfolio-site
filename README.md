@@ -2,16 +2,7 @@
 
 # ATISH MONDI
 
-**PERSONAL PORTFOLIO**  
-Computer science · Project films · Interactive evidence
-
-</div>
-
-<a href="https://atishmondi.github.io/personal-portfolio-site/">
-  <img src="docs/assets/persona/optimized/index-79fa710868-1920.webp" alt="The blue ferry scene used on the portfolio homepage" width="100%">
-</a>
-
-<div align="center">
+**PERSONAL PORTFOLIO**
 
 ### [OPEN THE PORTFOLIO ↗](https://atishmondi.github.io/personal-portfolio-site/)
 
