@@ -1,8 +1,8 @@
+<a href="https://atishmondi.github.io/personal-portfolio-site/">
+  <img src=".github/readme-banner.svg" alt="Atish Mondi — Personal Portfolio" width="100%">
+</a>
+
 <div align="center">
-
-# ATISH MONDI
-
-**PERSONAL PORTFOLIO**
 
 ### [OPEN THE PORTFOLIO ↗](https://atishmondi.github.io/personal-portfolio-site/)
 
