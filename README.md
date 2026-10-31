@@ -6,8 +6,6 @@
 
 ### [OPEN THE PORTFOLIO ↗](https://atishmondi.github.io/personal-portfolio-site/)
 
-[The work](https://atishmondi.github.io/personal-portfolio-site/projects.html) &nbsp; / &nbsp; [About me](https://atishmondi.github.io/personal-portfolio-site/about.html) &nbsp; / &nbsp; [CV](https://atishmondi.github.io/personal-portfolio-site/cv.html) &nbsp; / &nbsp; [Get in touch](https://atishmondi.github.io/personal-portfolio-site/contact.html)
-
 </div>
 
 ---
