@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atishmondi.github.io/personal-portfolio-site/sitemap.xml

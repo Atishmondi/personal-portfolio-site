@@ -1,0 +1,113 @@
+{
+  "synthetic": true,
+  "generated_at": "2026-10-15T11:58:13.425899+00:00",
+  "observations": [
+    {
+      "mode": "split",
+      "scenario": "worker_unavailable",
+      "repeat": 1,
+      "applicable": true,
+      "passed": true,
+      "before_recovery": {
+        "bookings": [
+          {
+            "id": "A",
+            "item": "camera",
+            "start": "2026-10-20",
+            "end": "2026-10-23",
+            "rate_minor": 50000,
+            "amount_minor": 150000,
+            "status": "confirmed",
+            "version": 1
+          }
+        ],
+        "invoices": [],
+        "pending": 1
+      },
+      "after_recovery": {
+        "bookings": [
+          {
+            "id": "A",
+            "item": "camera",
+            "start": "2026-10-20",
+            "end": "2026-10-23",
+            "rate_minor": 50000,
+            "amount_minor": 150000,
+            "status": "confirmed",
+            "version": 1
+          }
+        ],
+        "invoices": [
+          {
+            "booking_id": "A",
+            "amount_minor": 150000,
+            "status": "active",
+            "version": 1
+          }
+        ],
+        "pending": 0
+      },
+      "recovery_ms": 28.249,
+      "elapsed_ms": 29.1,
+      "note": "",
+      "intervention": "Restore injected fault when present; explicitly invoke retry/dispatcher."
+    },
+    {
+      "mode": "split",
+      "scenario": "exit_after_commit",
+      "repeat": 1,
+      "applicable": true,
+      "passed": true,
+      "before_recovery": {
+        "bookings": [
+          {
+            "id": "A",
+            "item": "camera",
+            "start": "2026-10-20",
+            "end": "2026-10-23",
+            "rate_minor": 50000,
+            "amount_minor": 150000,
+            "status": "confirmed",
+            "version": 1
+          }
+        ],
+        "invoices": [
+          {
+            "booking_id": "A",
+            "amount_minor": 150000,
+            "status": "active",
+            "version": 1
+          }
+        ],
+        "pending": 1
+      },
+      "after_recovery": {
+        "bookings": [
+          {
+            "id": "A",
+            "item": "camera",
+            "start": "2026-10-20",
+            "end": "2026-10-23",
+            "rate_minor": 50000,
+            "amount_minor": 150000,
+            "status": "confirmed",
+            "version": 1
+          }
+        ],
+        "invoices": [
+          {
+            "booking_id": "A",
+            "amount_minor": 150000,
+            "status": "active",
+            "version": 1
+          }
+        ],
+        "pending": 0
+      },
+      "recovery_ms": 27.616,
+      "elapsed_ms": 54.611,
+      "note": "",
+      "intervention": "Restore injected fault when present; explicitly invoke retry/dispatcher."
+    }
+  ]
+}

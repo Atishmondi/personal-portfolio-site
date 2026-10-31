@@ -1,0 +1,89 @@
+PERSONA ART AND MOTION REFERENCES
+
+Scenes selected from five owner-supplied images on 2026-10-30.
+Matching larger downloads were applied later that day. This remains a
+temporary page assignment: the owner will provide paper layouts and a
+corrected image order. Crops, shading and placement are applied in CSS.
+On 2026-10-31 the owner selected attachment 5 for Projects as well.
+Projects uses its original orientation with the face above the project grid.
+
+Attachment 4 / Home: owner-home-4k.webp, 3840 x 2194
+https://wall.alphacoders.com/big.php?i=1381905
+https://images6.alphacoders.com/138/1381905.webp
+
+Attachment 2 / Page-menu (previous Projects background): owner-projects-4k.jpg, 3840 x 2160
+https://wall.alphacoders.com/big.php?i=1344914
+https://images6.alphacoders.com/134/1344914.jpeg
+
+Attachment 1 / Skills: owner-skills-hd.webp, 1920 x 1080
+https://wall.alphacoders.com/big.php?i=1348278
+https://images2.alphacoders.com/134/1348278.png
+Delivery copy encoded as WebP, quality 95, at unchanged dimensions.
+The 9.8 MB original PNG download is retained outside this site checkout.
+
+Attachment 3 / Contact: owner-contact.jpg, 1200 x 675
+Original supplied cccda4b5701b35465b865bd8a87e3329.jpg, unchanged bytes.
+No higher-resolution exact full-frame download was verified.
+
+Attachment 5 / Projects and About: owner-about-4k.jpg, 3840 x 2160
+https://wall.alphacoders.com/big.php?i=1370601
+https://images4.alphacoders.com/137/1370601.jpeg
+
+Home, Projects and About retain the downloaded bytes. Source pixel sizes
+do not verify native rendering resolution or uploader processing history.
+Smaller supplied files remain archived but are not current page backgrounds.
+
+New menu reference:
+deltea / p3r-pause-menu
+https://github.com/deltea/p3r-pause-menu
+Inspected tree/commit: 3adc18a2cdd6b27cc03155651768b61df795f2a3
+Inspected: src/routes/+page.svelte, src/lib/components/Option.svelte,
+src/lib/components/SettingsOption.svelte, src/routes/layout.css, asset tree.
+Author explanation: https://www.deltea.space/blog/p3r-pause-menu
+Referenced: angled choices, cyan tones, white/pink triangular selector, quick
+selection response, large section index, changing descriptions and keyboard
+navigation. The navbar and overlay also adapt the spring selection, pulsing
+pink selector and red masked-lettering effect using original CSS, including
+clip-path in place of upstream SVG masks. Implemented with existing GSAP
+and a native HTML dialog; primary navigation is static HTML. No repository
+application, audio, video, SVG paths, or personal content is imported.
+Video and sound controls remain documented candidates for a future update.
+The reference is a single pause screen; our page arrival animation is custom.
+No explicit LICENSE file is present in the inspected tree.
+
+Home font, added at the owner's request for Persona typography:
+FOT-NewRodin Pro EB, via the supplied deltea reference repository.
+Source: static/fonts/NewRodin Pro EB.otf at the pinned tree above.
+Git blob: f02ae332d12380ee264279b54824ca83be36e825
+https://github.com/deltea/p3r-pause-menu/blob/3adc18a2cdd6b27cc03155651768b61df795f2a3/static/fonts/NewRodin%20Pro%20EB.otf
+Web subset: /assets/fonts/new-rodin-pro-eb-latin.woff (24,112 bytes)
+Subset retains Latin glyphs, useful punctuation, kerning and font notices.
+Used for Home's smaller heading, right-side choices and page marker.
+Typeface and font software remain the property of their respective owners.
+
+Earlier visual/motion references:
+https://github.com/blairxu13/persona3-website
+https://github.com/Numal400/Persona_style_portfolio
+https://p3re.jp/en/
+Earlier copied Numal images remain archived in this source history and are
+not used by the current page backgrounds.
+
+Persona game artwork and associated marks belong to ATLUS / SEGA and their
+respective rights holders. Artwork is decorative fan material, not a portrait
+of the portfolio owner or evidence of the owner's project work. No affiliation
+or endorsement is implied. Credits document provenance, not a license grant.
+
+Project detail pages: owner-supplied 1348285.png (2048 x 1024).
+Delivery asset: project-underwater.webp, high-quality WebP at original dimensions.
+Artwork composition and embedded artist signature are preserved.
+
+Skills: owner-supplied 01-junpei-lounge-1920x1080.png.
+Delivery asset skills-lounge.webp retains the full 1920 x 1080 composition.
+
+About: owner-supplied 02-underwater-menu-3840x2160.jpeg (actual 2048 x 1152).
+Delivery asset about-underwater.webp; displayed with a horizontal reflection.
+
+Contact: owner-supplied Submerged Blue Reverie.png (1672 x 941).
+Delivery asset contact-blue-reverie.webp preserves the original composition.
+
+About orientation fix: about-oriented-v3.webp preserves the original about-underwater.webp bytes. A dedicated artwork-reflection wrapper mirrors the full-resolution image and embedded preview together, independently of pointer motion and image caching.
